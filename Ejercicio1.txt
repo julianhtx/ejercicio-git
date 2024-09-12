@@ -1,3 +1,6 @@
 Hola mundo, desde rama 'altas'
 
 Hola mundo, …
+
+git Branch --delete *rama local*
+git Branch origin --delete *rama*
